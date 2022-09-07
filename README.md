@@ -52,7 +52,7 @@ Unde nu au fost obtinute rezultate valide, au fost folosite informatii furnizate
 Conform raportului INS pentru recensamantul din 2013 furnizat pe http://www.recensamantromania.ro/
 
 ### Coordonate Google Maps (lat, lng)
-Au fost obtinute prin interogarea Google Geocoding API si retusate manual in cazurile in care Google Maps nu a putut furniza informatiile. ( Da... :) au fost cateva sate care nu exista pe Google Maps )
+Au fost obtinute prin interogarea Google Geocoding API si retusate manual in cazurile in care Google Maps nu a putut furniza informatiile. ( Da... :) au fost cateva sate care nu exista pe Google Maps ) 
 
 
 ### Metoda de agregare a datelor
